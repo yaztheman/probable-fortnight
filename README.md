@@ -56,3 +56,7 @@ Project description.
 
 ## Update 83
 - Improvement made on 2025-10-21
+
+## December 2025 - January 2026 Update 8
+- Enhancement made on 2025-12-14
+- New year improvements
